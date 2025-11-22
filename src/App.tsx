@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { ModeCard } from './components/ModeCard';
 import { GameCanvas } from './components/GameCanvas';
 import { GameMode } from './types';
